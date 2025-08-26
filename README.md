@@ -1,7 +1,7 @@
-Olá! Meu nome é William Estevam 🫡
+Hello! My name is William Estevam 🫡
 
-- 👨🏾‍💻 Futuro dev front-end
-- 🌱 Estudando HTML, CSS, JavaScript, TypeScript e Angular
+- 👨🏾‍💻 Future Front-end Development
+- 🌱 Studying HTML, CSS, JavaScript, TypeScript, and Angular
 
   <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamwiu&show_icons=true&theme=dark#gh-dark-mode-only"/>

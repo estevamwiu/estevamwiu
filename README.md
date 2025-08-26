@@ -1,7 +1,7 @@
 Hello! My name is William Estevam 🫡
 
-- 👨🏾‍💻 Future Front-end Development
-- 🌱 Studying HTML, CSS, JavaScript, TypeScript, and Angular
+- 👨🏾‍💻 Future Front-end Development.
+- 🌱 Studying HTML, CSS, JavaScript, TypeScript, and Angular.
 
   <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamwiu&show_icons=true&theme=dark#gh-dark-mode-only"/>

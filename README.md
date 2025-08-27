@@ -1,6 +1,6 @@
 Hello! My name is William Estevam 🫡
 
-- 👨🏾‍💻 Future Front-end Development.
+- 👨🏾‍💻 Future Front-End Development.
 - 📚 Studying HTML, CSS, JavaScript, TypeScript, and Angular.
 
   <div>

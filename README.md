@@ -19,8 +19,8 @@
 ## ⭐ GitHub Stats
 
   <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamwiu&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamwiu&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamwiu&theme=default&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamwiu&layout=compact"/>
   </div>
 
 ---

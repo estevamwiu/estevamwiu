@@ -19,7 +19,7 @@ Olá, meu nome é <strong>William Estevam!🫡</strong>
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:estevamwilliam16@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=<a href = "mailto:estevamwilliam16@gmail.com">" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevamwiu/" target="_blank" alt="LinkedIn"/></a>
   <a href="#" title="Instagram">

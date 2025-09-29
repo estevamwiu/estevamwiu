@@ -2,7 +2,7 @@
 
 👨🏾‍💻 Future Front-end Development.
 
-📚 Studying HTML, CSS, JavaScript, TypeScript, and Angular.
+📚 Studying HTML, CSS, JavaScript, TypeScript, and React.
 
 ---
 

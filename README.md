@@ -15,6 +15,8 @@ Olá, meu nome é <strong>William Estevam!🫡</strong>
  📩 Entre em contato comigo: ⤵️
 </p>
 
+---
+
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:estevamwilliam16@gmail.com" alt="Gmail"/></a>

@@ -19,10 +19,18 @@
 
 ## ⭐ GitHub Stats
 
-  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamwiu&theme=default&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamwiu&layout=compact"/>
-  </div>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=estevamwiu&show_icons=true&theme=dark"
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api?username=estevamwiu&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats" style="max-width:100%; height:auto;"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estevamwiu&layout=compact&theme=dark"
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estevamwiu&layout=compact&theme=dark&hide_border=true&langs_count=10"
+    alt="Top Languages" style="max-width:100%; height:auto;"
+  />
 
 ---
 

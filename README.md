@@ -19,20 +19,13 @@
 
 ## ⭐ GitHub Stats
 
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=estevamwiu&show_icons=true&theme=dark"
-    height="165"
-    src="https://github-readme-stats-fast.vercel.app/api?username=estevamwiu&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats" style="max-width:100%; height:auto;"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estevamwiu&layout=compact&theme=dark"
-    height="165"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estevamwiu&layout=compact&theme=dark&hide_border=true&langs_count=10"
-    alt="Top Languages" style="max-width:100%; height:auto;"
-  />
+<a href="https://github.com/estevamwiu/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=estevamwiu" />
+</a>
 
----
+<a href="https://github.com/estevamwiu/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estevamwiu&layout=donut" />
+</a>
 
 ## 📞 My contacts
 <div>

@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github.com/estevamwiu/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estevamwiu&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estevamwiu&layout=donut&exclude_repo=vehicle-rental-java-swing,sales-system-java-swing" />
 </a>
 
 ## 📞 My contacts

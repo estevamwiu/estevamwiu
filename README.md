@@ -2,7 +2,7 @@
 
 👨🏾‍💻 Future Front-end Development.
 
-💼 Enhancing knowledge in HTML, CSS, JavaScript, TypeScript, and React.
+💼 Enhancing knowledge in HTML, CSS, JavaScript, TypeScript, Angular and React.
 
 ## 🚀 My Skills
 
